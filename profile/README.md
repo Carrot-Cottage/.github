@@ -26,3 +26,5 @@
 </p>
 
 Carrot Cottage Rabbit Recsue’s mission is to educate the generations about correct rabbit care, rabbit welfare, and to change the future for as many rabbits as we possibly can.
+
+![](https://komarev.com/ghpvc/?username=carrot-cottage&color=green)
