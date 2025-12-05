@@ -21,7 +21,7 @@
   <a href="https://www.youtube.com/@Bunfatherccrr">
   <img alt="Static Badge" src="https://img.shields.io/badge/youtube-DEBBB9?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white"></a>
   &nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100089758734375">
+  <a href="https://www.facebook.com/p/Carrot-Cottage-Rabbit-Rescue-100089758734375/">
   <img alt="Static Badge" src="https://img.shields.io/badge/facebook-DEBBB9?&amp;style=for-the-badge&amp;logo=facebook&amp;logoColor=white"></a>
 </p>
 
