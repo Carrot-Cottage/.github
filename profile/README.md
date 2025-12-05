@@ -25,6 +25,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/facebook-DEBBB9?&amp;style=for-the-badge&amp;logo=facebook&amp;logoColor=white"></a>
 </p>
 
-Carrot Cottage Rabbit Recsue’s mission is to educate the generations about correct rabbit care, rabbit welfare, and to change the future for as many rabbits as we possibly can.
+Carrot Cottage Rabbit Rescue's mission is to educate the generations about correct rabbit care, rabbit welfare, and to change the future for as many rabbits as we possibly can.
 
 ![](https://komarev.com/ghpvc/?username=carrot-cottage&color=green)
