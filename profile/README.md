@@ -3,7 +3,7 @@
   <b></b>
 </p></h3></br>
 
-[![Carrot Cottage Header Logo.](https://static.carrotcottagerr.com/z71pl68x032m95qr4kj/images/github.webp)](https://carrotcottagerr.com/about-us/)
+[![Carrot Cottage Header Logo.](https://static.carrotcottage.charity/z71pl68x032m95qr4kj/images/github.webp)](https://carrotcottagerr.com/about-us/)
 
 <ul>
   <li>Charity Info: <a href="https://carrotcottagerr.com/about-us/">https://carrotcottagerr.com/about-us/</a></li>
